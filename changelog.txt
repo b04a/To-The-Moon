@@ -1,5 +1,5 @@
 =========================================================
 ## [0.0.1] - 2022-11-25 [YANKED]
-### Added
--- A project, a repository, and a name have been invented
+-- A project, a repository, and a name have been invented!
+-- Проект, репозиторий и имя были придуманы!
 =========================================================
