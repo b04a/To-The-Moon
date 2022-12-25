@@ -6,7 +6,7 @@
 -- Made haptic sensitivity when selecting the TabBar
 -- Created an EXAMPLE template for the koins
 -- An icon for the application was created
--- Intermediate result: https://youtube.com/shorts/ChO-_kkNTZc
+-- Intermediate result: [CLICK!](https://youtube.com/shorts/ChO-_kkNTZc)
 (RU)
 -- Создан проект в Xcode
 -- Сделан кастомный TabBar + Анимация к нему
