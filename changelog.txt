@@ -1,4 +1,20 @@
 =========================================================
+## [1.0.2] - 2022-11-26
+(EN)
+-- Added animation to the cryptocurrency figure
+-- Made ready-made template for individual cryptocurrency
+-- Added navigation to selected cryptocurrency's chart
+-- Attempted to add API for Cryptocurrency, but site failed
+-- Found a new site with API access, with which we will take values for each of currencies 
+-- Intermediate result: https://youtube.com/shorts/0-zjOFXq1OM?feature=share
+(RU)
+-- Добавлена анимация к цифре криптовалюты
+-- Сделан МОЖЕТ БЫТЬ готовый шаблон для отдельной криптовалюты
+-- Добавленна навигация к графику выбранной криптовалюты
+-- Была попытка поставить API к криптовалюте, но сайт подвел
+-- Найден новый сайт с доступом API, с помощью которого будем брать значения для каждой из валют 
+-- Промежуточный результат: https://youtube.com/shorts/0-zjOFXq1OM?feature=share
+=========================================================
 ## [1.0.1] - 2022-11-25 
 (EN)
 -- Created a project in Xcode
